@@ -17,7 +17,7 @@ Hello! My name is Inbal and I am a Junior at Macalester College. I am passionate
 
 ## Education
 
-Macalester College | BA | St. Paul MN <br>
+Macalester College | St. Paul MN <br>
 Major: Environmental Studies: Climate Science and Policy <br>
 Minor: Data Science <br>
 Sept 2022 - May 2025
