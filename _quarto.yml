@@ -1,17 +1,27 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "iarmony.github.io"
+  title: "Inbal Armony"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - experiences.qmd
+      - projects.qmd
+      
+page-footer:
+    left: |
+      &copy; Inbal Armony, 2024<br>
+      All content licensed under <i class='bi-badge-cc'></i>
+      [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+    right: |
+      Site built with <a href='https://quarto.org/'>Quarto</a>
 
 format:
   html:
-    theme: cosmo
+    theme: journal
     css: styles.css
     toc: true
 

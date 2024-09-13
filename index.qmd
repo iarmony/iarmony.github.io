@@ -1,11 +1,26 @@
 ---
-title: "iarmony.github.io"
+title: "Inbal Armony"
+about:
+  id: intro-heading
+  template: trestles
+  image: images/profilepic.jpeg
+  links:
+    - icon: github
+      href: https://github.com/iarmony
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+:::{#intro-heading}
+
+Hello! My name is Inbal and I am a Junior at Macalester College. I am passionate about combating the climate crisis through robust policies and energy technology. 
+
+## Education
+
+Macalester College | BA | St. Paul MN <br>
+Major: Environmental Studies: Climate Science and Policy <br>
+Minor: Data Science <br>
+Sept 2022 - May 2025
+
+:::
+

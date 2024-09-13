@@ -1,0 +1,24 @@
+---
+title: "Via Separations Internship"
+description: "Business Operations Intern at Via Separations"
+image: featured.png
+image-alt: quizgrader logo
+categories:
+  - Research
+  - Politics
+about:
+  template: solana
+  image: featured.png
+---
+
+Via is a climatetech company tackling the largest source of the US' industrial emissions and 10-15% of global energy use: industrial separations. Separations are required for the manufacturing of everything we need from paper, food, fuels, to chemicals and more. But today, separations are an expensive and inefficient process that rely on fossil-fueled evaporators.
+
+Via's technology electrifies this ubiquitous thermal process by using membranes. Unlike other polymer membranes, Via's technology can withstand all the extremes of the industrial environment due to their use of graphene oxide, a highly-durable and customizable material. Via's filtration system adds value to their costumers by lowering energy costs and debottlenecking production. Unlike many other climate technologies, Via's has no  "green premium," meaning Via's technology is both better for the planet and adds value for the costumer.
+
+At Via, I worked with the Business Operations team, at the intersection of finance, management, and storytelling. My day-to-day responsibilities included: creating fundraise materials (like slide decks), office management, facilities, accounts payable process, and employee hour monthly approvals. 
+
+Beyond those tasks, my major projects included: updating our entire website, R&D market and technology research for a potential new application for Via's technology, event planning and marketing for the company's first plant opening event in September, and creating a video for the website.
+
+Achievements: Successfully proposing a website revamp project for a very out-of-date website. I then went on to manage this project and create all the new content for the website
+Working across teams and disciplines and flexibly adapting to new tasks
+Via asking me to stay on remotely this fall to finish my video project!

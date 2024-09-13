@@ -1,0 +1,15 @@
+---
+title: "Life Satisfaction in South America"
+description: "My first Rstudio project"
+image: featured.png
+image-alt: quizgrader logo
+categories:
+  - Research
+  - Politics
+about:
+  template: solana
+  image: featured.png
+---
+
+Description TBW
+
