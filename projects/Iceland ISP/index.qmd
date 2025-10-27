@@ -1,0 +1,48 @@
+---
+title: "Icelandic Oil Sales Dashboard"
+description: "Interactive dashboard comparing oil sales across Icelandic municipalities"
+image: featured.png
+image-alt: quizgrader logo
+categories:
+  - Energy
+  - Research
+  - Policy
+  - Data Science
+---
+
+**Location:** Iceland
+
+**Duration:** May 2025
+
+
+### Study abroad
+
+In Spring 2025, I studied abroad in Iceland with the School for International Training's Iceland: Climate Change and the Arctic program. I lived in Iceland for one semester to study the country's unique environment and action on climate change. My time there concluded with a **5-week independent study project** where I collaborated with **Eimur**, an Icelandic organization working towards sustainable resource utilization in Northern Iceland, and the **EU LIFE-funded RECET project**, aiming to empower European rural municipalities in their energy transition planning. 
+
+
+### Iceland's unique energy portfolio
+
+Iceland aims to significantly and quickly change its energy sources with goals of **carbon neutrality by 2040** and being fossil fuel-free by 2050. While Iceland’s electricity already originates from **100% renewable energy**, it still relies on **oil for land transportation, marine transportation, aviation, and industry**. With over 60% of Icelanders living in the capital region, Iceland’s clean energy transition must also consider the remaining population living in smaller municipalities and rural areas. Differences in regional Icelandic oil consumption have yet to be studied, and a gap exists between the state and local governments about climate action. 
+
+
+### My project
+
+Given this climate action gap, Eimur hoped to publish  newly available oil sales data from 2010-2020 to help address prior uncertainty about regional differences in oil consumption. **I designed a dashboard exploring data and support accessible exploration of regional differences in Iceland’s oil consumption**. The dashboard’s interactive and accesible design supports use by community members and policy-makers alike. Findings and patterns revealed by the dashboard can help inform **equitable energy transition policy** in Iceland.
+
+
+### Dashboard
+
+Explore the [dashboard](https://public.tableau.com/views/IcelandicOilSales2010-2020/Introduction?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)! 
+
+```{=html}
+
+<div class='tableauPlaceholder' id='viz1761581193594' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ic&#47;IcelandicOilSales2010-2020&#47;ExploreRegions&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='IcelandicOilSales2010-2020&#47;ExploreRegions' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ic&#47;IcelandicOilSales2010-2020&#47;ExploreRegions&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1761581193594');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='1577px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+```
+
+
+
+
+Note: I created an Icelandic and an English version of the dashboard. Above is the English version.
+
+

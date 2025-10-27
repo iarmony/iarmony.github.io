@@ -7,9 +7,10 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: About me
       - experiences.qmd
       - projects.qmd
+      - education.qmd 
       
 page-footer:
     left: |

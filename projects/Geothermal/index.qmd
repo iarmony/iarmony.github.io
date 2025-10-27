@@ -1,0 +1,17 @@
+---
+title: "Geothermal Energy Independent Research"
+description: "TBW"
+image: featured.png
+image-alt: quizgrader logo
+categories:
+  - Energy
+  - Research
+  - Policy
+---
+
+**Location:** Macalester College, St. Paul, Minnesota.
+
+**Duration:** September - December 2024
+
+
+### Geothermal

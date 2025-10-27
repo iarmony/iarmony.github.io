@@ -1,0 +1,82 @@
+---
+title: "Undergraduate Course Highlights"
+description: "Skills and takeaways from sample coursework"
+image: featured.png
+image-alt: quizgrader logo
+categories:
+  - Environmental Studies
+  - Data Science
+  - Research
+about:
+  template: solana
+  image: featured.png
+---
+
+**Location:** St. Paul, Minnesota
+
+**Duration:** September 2022 -- May 2026
+
+
+## Overview
+
+At Macalester, I have taken a wide-range of courses across disciplines. I decided to pair my major, Environmental Studies, which is interdisciplinary by nature, with a more skills-focused minor, Data Science. I have also taken courses in Economics, Physics, Biology, Art, History, English, and Spanish, providing me with diverse communications, research, and analytical skills. 
+
+
+## Environmental Studies
+
+#### Psychology and/of Climate Change
+
+Cross-listed with Psychology, this course provided me with a framework to understanding why we humans react (or rather, don't react) to climate change and what are the psychological determinants of taking action.
+
+Skills: 
+
+* Motivating effective climate action on small and large scales
+
+* Behavioral-change climate policy 
+
+
+#### Earth's Climate System
+
+This deep dive climate science course taught me what drives energy through the atmosphere, biosphere, and hydrosphere. Understanding how the status quo of the climate translated into understanding why human burning of fossil fuels results in the climate crisis. 
+
+Skills:
+
+* Climate science (chemistry, physics, and math) skills to solve challening problem sets
+
+* Bridging science and policy in Policy-memo
+
+I went on to precept (TA) this course for two semesters! Helping students work on problem sets and grading labs. I often managed working with 12+ students at a time at office hours.
+
+
+#### Climate Change: Science, Economics, and Policy
+
+Cross-listed with Economics, this team-taught course taught me the world of climate economics. From externalities, carbon taxes, to climate models and Integrated Assessment Models, I learned how climate scientists and economists make predictions about the future and impactful policies.
+
+Skills:
+
+* Modelling: Integrated Assessment Models
+
+* Applying economic tools: externality, discount rate, carbon tax, statistics. 
+
+* Climate Economics Literature Review
+
+
+## Data Science
+
+#### Intermediate Data Science
+
+TBW
+
+#### Statistical Machine Learning
+
+TBW
+
+## Other
+
+#### Leaves to Landscapes: A Visual Journey Through Plant Ecology and Art
+
+TBW
+
+####  TBW
+
+TBW

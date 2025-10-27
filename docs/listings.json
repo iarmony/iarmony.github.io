@@ -2,13 +2,22 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/projects/sample/index.html"
+      "/projects/Senior Honors Thesis/index.html",
+      "/projects/Iceland ISP/index.html",
+      "/projects/Geothermal/index.html"
     ]
   },
   {
     "listing": "/experiences.html",
     "items": [
-      "/experiences/Via/index.html"
+      "/experiences/Via/index.html",
+      "/experiences/Metro Transit/index.html"
+    ]
+  },
+  {
+    "listing": "/education.html",
+    "items": [
+      "/education/Course Highlights/index.html"
     ]
   }
 ]

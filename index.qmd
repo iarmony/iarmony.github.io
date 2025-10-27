@@ -1,5 +1,6 @@
 ---
 title: "Inbal Armony"
+subtitle: "She/her/hers"
 about:
   id: intro-heading
   template: trestles
@@ -13,14 +14,15 @@ about:
 
 :::{#intro-heading}
 
-Hello! My name is Inbal and I am a Junior at Macalester College. I am passionate about combating the climate crisis through robust policies and energy technology. 
+Hello! My name is Inbal Armony. I am a Senior at Macalester College passionate about combating the climate crisis through policies that bridge renewable energy, behavioral change, economics, and climate communication. 
 
 ## Education
 
-Macalester College | St. Paul MN <br>
-Major: Environmental Studies: Climate Science and Policy <br>
-Minor: Data Science <br>
-Sept 2022 - May 2026
+**Macalester College** | St. Paul MN <br>
+**Major**: Environmental Studies <br>
+**Emphasis:** Climate Science & Policy <br>
+**Minor**: Data Science <br>
+September - May 2026
 
 :::
 

@@ -1,0 +1,44 @@
+---
+title: "Senior Honors Thesis"
+description: "Environmental Studies + Statistics Honors Thesis"
+image: featured.png
+image-alt: quizgrader logo
+categories:
+  - Energy
+  - Research
+  - Policy
+  - Data Science
+---
+
+**Location:** Macalester College, St. Paul, Minnesota.
+
+**Duration:** September 2025 - May 2026
+
+
+### Honors Thesis
+
+To continue my exploration of oil sales across Icelandic municipalities, I am conducting a 1-year-long Seniors Honors Thesis. Working across disciplines, I am bridging my Environmental Studies and Data Science skills to explore **differences in Icelandic oil sales** across municipalities and time using **Small Area Estimation** modeling. 
+
+
+### Advisors
+
+* [Dr. Christie Manning](https://www.macalester.edu/environmental-studies/facultystaff/christinamanning/), Environmental Studies
+
+* [Dr. Taylor Okonek](https://www.macalester.edu/mscs/facultystaff/taylor-okonek/), Statistics
+
+
+### Iceland's unique energy portfolio
+
+Iceland aims to significantly and quickly change its energy sources with goals of **carbon neutrality by 2040** and being fossil fuel-free by 2050. While Iceland’s electricity already originates from **100% renewable energy**, it still relies on **oil for land transportation, marine transportation, aviation, and industry**. With over 60% of Icelanders living in the capital region, Iceland’s clean energy transition must also consider the remaining population living in smaller municipalities and rural areas. Differences in regional Icelandic oil consumption have yet to be studied, and a gap exists between the state and local governments about climate action. This project uses newly available oil sales data from 2010-2020 to help address **spatial energy consumption uncertainties** and promote **effective energy transition policies.**
+
+
+### Research question
+
+What factors impact oil consumption across time and space in Iceland?
+
+
+### Model statement 
+
+
+
+
