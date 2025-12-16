@@ -39,7 +39,7 @@ What factors impact oil consumption across time and space in Iceland?
 
 #### Model
 
-I am implementing a Small Area Estimation model with Bayesian Methods.
+Small Area Estimation model with Bayesian Methods.
 
 
 
