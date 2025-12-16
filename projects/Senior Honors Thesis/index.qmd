@@ -37,7 +37,7 @@ Iceland aims to significantly and quickly change its energy sources with goals o
 What factors impact oil consumption across time and space in Iceland?
 
 
-#### Model
+### Model
 
 Small Area Estimation model with Bayesian Methods.
 
