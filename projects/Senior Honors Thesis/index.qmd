@@ -1,6 +1,6 @@
 ---
 title: "Senior Honors Thesis"
-description: "Environmental Studies + Statistics Honors Thesis"
+description: "Environmental Studies + Statistics Honors Thesis: Modeling Spatial Differences in Iceland’s Oil Consumption"
 image: featured.png
 image-alt: quizgrader logo
 categories:
@@ -37,8 +37,9 @@ Iceland aims to significantly and quickly change its energy sources with goals o
 What factors impact oil consumption across time and space in Iceland?
 
 
-### Model statement 
+#### Model
 
+I am implementing a Small Area Estimation model with Bayesian Methods.
 
 
 

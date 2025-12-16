@@ -1,6 +1,6 @@
 ---
 title: "Geothermal Energy Independent Research"
-description: "TBW"
+description: "Explored the technological, environmental, and economic feasibility of a geothermal system at Macalester College"
 image: featured.png
 image-alt: quizgrader logo
 categories:
@@ -15,3 +15,22 @@ categories:
 
 
 ### Geothermal
+
+As a student repsentative on the Macalester College Sustainability Advisory Committee, I advocate for student interest in campus’ carbon neutrality and zero waste goals. Recognizeing natural gas heating as a significant barrier to decarbonization, I took on a semester-long independent study to evaluate the feasibility of switching to geothermal heating. 
+
+### Research Question 
+
+What is the technological, environmental, and economic feasibility of switching Macalester College's heating and cooling system to a geothermal system?
+
+
+### Accomplishments
+
+* Worked with Macalester's Facilities team, Sustainability Office, and Geothermal start-up to estimate costs and system design.
+
+* Conducted a cost/benefit analysis.
+
+* Researched peer institutions' geothermal systems. 
+
+
+
+

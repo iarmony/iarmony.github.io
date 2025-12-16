@@ -16,10 +16,9 @@ about:
 
 **Duration:** September 2022 -- May 2026
 
+At Macalester, I have taken a wide-range of courses across disciplines. I decided to pair my major, Environmental Studies, which is interdisciplinary by nature, with a more skills-focused minor, Data Science. I have also taken courses in Economics, Physics, Biology, Art, History, English, and Spanish, providing me with diverse communications, research, and analytical skills.
 
-## Overview
-
-At Macalester, I have taken a wide-range of courses across disciplines. I decided to pair my major, Environmental Studies, which is interdisciplinary by nature, with a more skills-focused minor, Data Science. I have also taken courses in Economics, Physics, Biology, Art, History, English, and Spanish, providing me with diverse communications, research, and analytical skills. 
+Explore my skills and takeaways from sample coursework:
 
 
 ## Environmental Studies
@@ -58,25 +57,26 @@ Skills:
 
 * Applying economic tools: externality, discount rate, carbon tax, statistics. 
 
-* Climate Economics Literature Review
+* Climate economics literature review
 
 
 ## Data Science
 
 #### Intermediate Data Science
 
-TBW
+A deep dive into real-world data analysis, this class gave me hands-on experience with querying data, cleaning messy data, and complex, interactive visuals.
+
+Skills:
+
+* Coding in RStudio: querying and cleaning data, writing functions, creating high-level visualizations.
+
+* R-Shiny interactive dashboards
+
 
 #### Statistical Machine Learning
 
-TBW
+This class explored many machine learning algorithms, providing me with a wide modeling toolkit.
 
-## Other
+* Modeling selection and evaluation.
 
-#### Leaves to Landscapes: A Visual Journey Through Plant Ecology and Art
-
-TBW
-
-####  TBW
-
-TBW
+* Implementing models in RStudio.

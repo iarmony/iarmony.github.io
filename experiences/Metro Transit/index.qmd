@@ -1,6 +1,7 @@
 ---
 title: "Metropolitan Council Internship"
-description: "Sustainability Data Analytics Intern at Metro Transit"
+subtitle: "Sustainability Data Analytics Intern at Metro Transit"
+description: "Streamlined complex annual GHG calculation and reporting process."
 image: featured.png
 image-alt: quizgrader logo
 categories:
@@ -20,7 +21,7 @@ about:
 
 ### About the Metropolitan Council
 
-The Met Council is a non-elected government agency  that provides long-term planning and services for the 7-county Twin Cities Metro Area. The Met Council employs over 4,000 individuals and in 5 divisions, the largest of which is Metro Transit. Metro Transit is the primary public transportation provider for the Twin Cities Metro Area with a network of buses, light rail and commuter trains. In 2024, Metro Transit provided **more than 47 million rides across the Twin Cities region!** Within this massive organization, I sit on a 6 person team: the Sustainability team. The sustainability team works across the entire Council to conduct **climate action planning and implementation, emissions tracking and reporting, natural systems management, environmental justice work, energy utilities management, energy efficiency work**, and much more. 
+The Met Council is a non-elected government agency  that provides long-term planning and services for the 7-county Twin Cities Metro Area. The Met Council employs over 4,000 individuals in 5 divisions, the largest of which is Metro Transit. Metro Transit is the primary **public transportation** provider for the Twin Cities Metro Area with a network of buses, light rail and commuter trains. In 2024, Metro Transit provided **more than 47 million rides across the Twin Cities region!** I interned with the Sustainability team. The sustainability team works across the entire Council to conduct **climate action planning and implementation, emissions tracking and reporting, natural systems management, environmental justice work, energy utilities management, energy efficiency work**, and much more. 
 
 
 ###  My role
@@ -30,17 +31,22 @@ At Metro Transit, I work with the Sustainability team, focusing on **Greenhouse 
 
 ### My major projects
 
-* **GHG Calculations + Tracking:** The current method for calculating the agency's GHGs is an outdated spreadsheet with lots of manual labor and errors. I am spearheading a new system to calculate, track and report the agency's GHG emissions. This system automatically pulls data from our utility software to provide monthly reports.
+* **GHG Calculations + Tracking:** 
 
-* **GHG Dashboard:** To communicate Metro Transit's emissions for internal decision making and external reporting, I am creating an interactive GHG dashboard using PowerBI. This dashboard updates automatically and creates clean GHG reports and visuals.
+  * As the highest emitting state agency in Minnesota, Metro Transit must calculate and report its emissions annually.
+  
+  * The previous method for reporting involved a time-intensive, out-of-date manual-entry spreadsheet that was riddled with errors.
+  
+  * By teaching myself new software, I created an automated reporting system that streamlines accurate annual GHG reporting! This system automatically pulls data from our utility software server to provide annual emissions reports.
 
-* **Facilities Energy Targets Dashboard:** I am creating a more specialized interactive dashboard displaying energy use by facility. This tool will help the Sustainability, Engineering, and Facilities teams discover trends in each facility and create nuanced  targets to lower energy use.
+
+* **Facilities Energy Targets Dashboard:** I created an interactive dashboard displaying energy use by facility. This tool will help the Sustainability team discover trends in each facility and create nuanced targets to lower energy use.
 
 
 ### Achievements
 
-* Taking initiative to successfully propose projects.
+* Took initiative to successfully propose projects.
 
-* Independently learning new software: PowerBI, EnergyCAP, B3.
+* Independently learned new software (PowerBI, EnergyCAP, B3) and coding languages (DAX, M).
 
-* Complex data wrangling, analysis, visualization, and communication.
+* Complex data querying, wrangling, analysis, visualization, and communication.
