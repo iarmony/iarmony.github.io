@@ -1,7 +1,7 @@
 ---
 title: "Metropolitan Council Internship"
 subtitle: "Sustainability Data Analytics Intern at Metro Transit"
-description: "Streamlined complex annual GHG calculation and reporting process."
+description: "Streamlined complex annual GHG calculation and reporting process for transit agency."
 image: featured.png
 image-alt: quizgrader logo
 categories:

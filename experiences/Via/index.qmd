@@ -1,7 +1,7 @@
 ---
 title: "Via Separations Internship"
 subtitle: "Business Operations Intern at Via Separations"
-description: "Initiated a website revamp to improve the company's marketing and climate communication."
+description: "Initiated a website revamp to improve the climate-tech start-up's marketing and climate communication."
 image: featured.png
 image-alt: quizgrader logo
 categories:
